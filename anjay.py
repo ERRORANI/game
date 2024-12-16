@@ -6,3 +6,4 @@ wisata = {
     "Labuan Bajo": "Kota di Nusa Tenggara Timur, gerbang menuju Pulau Komodo.",
     "Danau Toba": "Danau vulkanik terbesar di dunia yang berada di Sumatera Utara.",
     "Pulau Derawan": "Pulau di Kalimantan Timur yang terkenal dengan keindahan bawah lautnya.",
+}
